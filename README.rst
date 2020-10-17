@@ -54,3 +54,14 @@ Step - 3 :
 ::
 
  Right click on project > Build Path > Configure Build Path > libraries > Add library > Server RunTime > Add appache > finish
+ 
+CREATING DTO
+=============
+
+- DTO is the **DATA TRANSFER OBJECT** between the itself and the UI Layer
+
+- Create a DTO package in src/main/java
+
+- Now based on the ER Diagram Create the java files and write the classes
+
+- Any number of the classes based on ER diagram
